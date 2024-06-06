@@ -36,3 +36,9 @@ PS1 mask: https://drive.google.com/file/d/1UBlFSKB5CehFy1lwrITKRmoiFWvs3cK3/view
 ### Classifier
 
 -- Contains XGBoost satellite selection function model from [1912.03302](https://arxiv.org/abs/1912.03302).
+
+-- Contains XGBoost satellite selection function model from Satellite Sensitivity
+
+### LSST
+
+-- Implements the satellite galaxy--subhalo connection model to make predictions of the new LSST satellite detections
